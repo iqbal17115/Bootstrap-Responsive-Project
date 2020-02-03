@@ -1,0 +1,42 @@
+body{
+  background-color: #333;
+  color: #fff;
+}.navbar{
+	border-bottom: 1px solid #008ed6;
+	opacity: .8; 
+}#home-section{
+  background: url(image.jpg);
+  background-size: cover;
+  background-attachment: fixed;
+  min-height: 600px;
+}#home-section .home-inner{
+	padding-top: 120px;
+}#home-section .card-form{
+	opacity: .95;
+}.fa{
+	color: #008ed6;
+	background-color: #fff;
+	padding: 4px;
+	border-radius: 5px;
+	font-size: 30px;
+}.card-form{
+	margin-bottom: 20px;
+}#light-explore .fa{
+	color: #fff;
+	background-color: #333;
+	padding: 4px;
+	border-radius: 5px;
+	font-size: 30px;
+}#create-explore .fa{
+	color: #008ed6;
+	background-color: #fff;
+	padding: 4px;
+	border-radius: 5px;
+	font-size: 30px;
+	}#share-explore .fa{
+	color: #fff;
+	background-color: #333;
+	padding: 4px;
+	border-radius: 5px;
+	font-size: 30px;
+}
